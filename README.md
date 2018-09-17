@@ -1,6 +1,6 @@
 # AndroidProject
 
-<img src="http://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=%E4%BA%8C%E8%B4%A7%E5%93%88%E5%A3%AB%E5%A5%87%E7%9A%84%E5%82%BB%E7%BC%BA%E7%85%A7%E7%89%87&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=-1&cs=1135395255,3965077937&os=1823669126,2610177678&simid=0,0&pn=142&rn=1&di=124873295141&ln=1810&fr=&fmq=1537177108374_R&fm=rs1&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=5a&hs=2&oriquery=%E5%93%88%E5%A3%AB%E5%A5%87%E5%9B%BE%E7%89%87&objurl=http%3A%2F%2Fn1.itc.cn%2Fimg8%2Fwb%2Frecom%2F2016%2F07%2F09%2F146804430235497772.JPEG&rpstart=0&rpnum=0&adpicid=0" width="1000" height="250">
+<img src="http://pic.962.net/up/2017-8/15017252765951780.jpg" width="1000" height="250">
 
 <br>最近的android产品研发系列主要讲解的是android产品研发过程中涉及到的技术，技巧，实践等。前面我们讲解了android源码系列的文章&nbsp;&nbsp;可参考：<a href="http://blog.csdn.net/qq_23547831/article/details/50696046">Android源码解析-->总结（持续更新中）</a>，源码系列的文章东西比较多比较复杂，并且一些东西还没有讲完，这里已经更新了30篇了，后续的东西一定会更新的。考虑一直讲源码系列可能看的比较累，这里就有了产品研发系列的文章。本个系列的文章主要是讲解android产品研发过程中一些需要注意的技术技巧与实践。其主要面对产品研发，对App稳定性，友好型，兼容性要求较高的App。
 
