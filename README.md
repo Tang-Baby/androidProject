@@ -1,6 +1,6 @@
 # AndroidProject
 
-<img src="http://pic.962.net/up/2017-8/15017252765951780.jpg" width="1000" height="250">
+<img src="http://img0.imgtn.bdimg.com/it/u=1251558358,1896050384&fm=26&gp=0.jpg" width="800" height="300">
 
 <br>最近的android产品研发系列主要讲解的是android产品研发过程中涉及到的技术，技巧，实践等。前面我们讲解了android源码系列的文章&nbsp;&nbsp;可参考：<a href="http://blog.csdn.net/qq_23547831/article/details/50696046">Android源码解析-->总结（持续更新中）</a>，源码系列的文章东西比较多比较复杂，并且一些东西还没有讲完，这里已经更新了30篇了，后续的东西一定会更新的。考虑一直讲源码系列可能看的比较累，这里就有了产品研发系列的文章。本个系列的文章主要是讲解android产品研发过程中一些需要注意的技术技巧与实践。其主要面对产品研发，对App稳定性，友好型，兼容性要求较高的App。
 
